@@ -1,4 +1,4 @@
-# Reddit Proxy Crawler
+# Proxy Crawler
 
 ## Description
 
